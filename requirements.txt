@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+onnxruntime
+joblib
+scikit-learn
+pydantic
